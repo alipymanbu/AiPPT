@@ -1,79 +1,27 @@
-<p align="center"><img src="https://docmee.cn/favicons/favicon-32x32.png" alt="logo"/></p>
-<h1 align="center">文多多 AiPPT</h1>
-<p align="center">
-  简体中文 | <a href="./README_EN.md">English</a>
-</p>
-<p align="center">
-	<a href="https://www.veasion.cn/AiPPT/" target="_blank">🔗在线演示</a>
-	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-	<a href="https://www.veasion.cn/ppt2json/" target="_blank">📝PPT转JSON</a>
-	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-	<a href="https://docmee.cn" target="_blank">🌏官方网站</a>
-	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-	<a href="#-商业合作">💬合作交流</a>
-</p>
+# AiPPT
 
+本仓库是「AiPPT」的安卓版本获取入口，附使用资料索引。
 
+## 安装文件资源（夸克网盘）
 
+> **AiPPT 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fefac330e3cc](https://pan.quark.cn/s/fefac330e3cc)
 
+## 官方项目
 
-# 🤖 AI 生成 PPT
+- 上游项目：[veasion/AiPPT](https://github.com/veasion/AiPPT)
 
-商用级 AI 生成 PPT 项目，包含以下功能：
+## 更多资料
 
-* AI 生成 PPT
-* PPT 解析成 JSON
-* JSON 反渲染为 PPT
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AiPPT%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [同名产品与官方渠道怎么认](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AiPPT%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%90%8C%E5%90%8D%E4%BA%A7%E5%93%81%E4%B8%8E%E5%AE%98%E6%96%B9%E6%B8%A0%E9%81%93%E6%80%8E%E4%B9%88%E8%AE%A4.md)
+- [导入文档和链接转PPT](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AiPPT%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%AF%BC%E5%85%A5%E6%96%87%E6%A1%A3%E5%92%8C%E9%93%BE%E6%8E%A5%E8%BD%ACPPT.md)
+- [导出格式与字体丢失怎么办](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AiPPT%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%AF%BC%E5%87%BA%E6%A0%BC%E5%BC%8F%E4%B8%8E%E5%AD%97%E4%BD%93%E4%B8%A2%E5%A4%B1%E6%80%8E%E4%B9%88%E5%8A%9E.md)
+- [常见问题与排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AiPPT%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E6%8E%92%E6%9F%A5.md)
+- [怎么用一句话生成PPT](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AiPPT%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%80%8E%E4%B9%88%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%94%9F%E6%88%90PPT.md)
+- [注册登录与会员计费](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AiPPT%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95%E4%B8%8E%E4%BC%9A%E5%91%98%E8%AE%A1%E8%B4%B9.md)
+- [生成的PPT能不能直接用](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/AiPPT%E5%AE%98%E7%BD%91%E7%89%88%E6%9C%AC/%E7%94%9F%E6%88%90%E7%9A%84PPT%E8%83%BD%E4%B8%8D%E8%83%BD%E7%9B%B4%E6%8E%A5%E7%94%A8.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
+---
 
-
-# ✨ AiPPT
-
-在线体验：https://veasion.github.io/AiPPT
-
-
-[演示视频](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/aippt.mp4)
-
-https://github.com/veasion/aippt/assets/24989778/24d5654b-09f3-4554-a732-dbffc1073a1d
-
-
-
-# ✨ PPT 解析成 JSON
-
-支持上传PPT并渲染，在线编辑，编辑后下载 ppt 文件。
-
-在线体验：https://veasion.github.io/AiPPT/ppt2json.html
-
-
-
-
-<img width="800" src="https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/ppt2json.png" style="border:1px solid #ccc">
-
-
-
-# 🤝 商业合作
-
-针对上面技术，我们开发了一套可商用 aippt 软件，支持代理 & 私有化部署！
-
-我们的优势，支持定制化行业解决方案，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，技术方案行业领先，价格行业最低。
-
-官网地址（开放API）：
-https://docmee.cn
-
-开放平台（API/UI 接入）：
-https://docmee.cn/open-platform
-
-商业合作 & 进群交流：
-
-![qrcode](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/contact_me_qr.png)
-
-
-
-# 🌟 Star History
-
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=veasion/aippt&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=veasion/aippt&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=veasion/aippt&type=Date" />
-</picture>
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/veasion/AiPPT)。
